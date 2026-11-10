@@ -1,3 +1,15 @@
-https://www.sciencedirect.com/science/article/pii/S2212827125010182?via%3Dihub
-https://www.sciencedirect.com/science/article/pii/S2949719125000615
-https://proceedings.mlr.press/v235/ahmaditeshnizi24a/ahmaditeshnizi24a.pdf
+1. [https://fileserver-az.core.ac.uk/download/154400376.pdf](https://fileserver-az.core.ac.uk/download/154400376.pdf)
+2. [https://proceedings.mlr.press/v220/ramamonjison23a/ramamonjison23a.pdf](https://proceedings.mlr.press/v220/ramamonjison23a/ramamonjison23a.pdf)
+3. [https://arxiv.org/pdf/2403.01342](https://arxiv.org/pdf/2403.01342)
+4. [https://arxiv.org/pdf/2405.17743](https://arxiv.org/pdf/2405.17743)
+5. [https://proceedings.mlr.press/v235/ahmaditeshnizi24a/ahmaditeshnizi24a.pdf](https://proceedings.mlr.press/v235/ahmaditeshnizi24a/ahmaditeshnizi24a.pdf)
+6. [https://arxiv.org/pdf/2510.02679](https://arxiv.org/pdf/2510.02679) 
+7. [https://arxiv.org/pdf/2307.03875](https://arxiv.org/pdf/2307.03875)
+8. [https://ira.lib.polyu.edu.hk/handle/10397/113293](https://ira.lib.polyu.edu.hk/handle/10397/113293)
+9. [https://link.springer.com/content/pdf/10.1007/s10845-025-02732-z.pdf](https://link.springer.com/content/pdf/10.1007/s10845-025-02732-z.pdf)
+10. [https://publica-rest.fraunhofer.de/server/api/core/bitstreams/31f33d0e-0b92-450f-8688-d12c229e8b49/content](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/31f33d0e-0b92-450f-8688-d12c229e8b49/content)
+11. [https://doi.org/10.1016/j.procir.2025.08.195](https://doi.org/10.1016/j.procir.2025.08.195)
+12. [https://www.sciencedirect.com/science/article/pii/S2949719125000615](https://www.sciencedirect.com/science/article/pii/S2949719125000615)
+13. [https://arxiv.org/abs/2508.10047](https://arxiv.org/abs/2508.10047)
+14. [https://publikationen.bibliothek.kit.edu/1000193429](https://publikationen.bibliothek.kit.edu/1000193429)
+15. [https://www.researchgate.net/publication/372248063_Large_Language_Models_for_Supply_Chain_Optimization](https://www.researchgate.net/publication/372248063_Large_Language_Models_for_Supply_Chain_Optimization)
